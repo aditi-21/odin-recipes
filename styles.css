@@ -1,0 +1,41 @@
+body{
+    background-color: peachpuff
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul{
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+    text-decoration: none; 
+  }
+  
+  /* visited link */
+  a:visited {
+    color: maroon;
+    text-decoration: none; 
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+    text-decoration: none; 
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+    text-decoration: none; 
+  }
